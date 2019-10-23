@@ -9,4 +9,4 @@ class Program1
 		int i=sc.nextInt();
 		System.out.println("Bruh the number you gave me was "+i);
 	}
-}
+
